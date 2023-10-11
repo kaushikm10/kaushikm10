@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikm10&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikm10" /> </p>
 
-- 🔭 I’m currently pursuing **Masters' in Computer Science** from **University of Colorado - Boulder**
+- 🔭 I’m currently pursuing **Master of Science in Computer Science** from **University of Colorado - Boulder**
 
 - 🌱 I’m currently learning **Reinforcement Learning Concepts**
 
